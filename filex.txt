@@ -2,3 +2,6 @@ Hi everybody! !!!
 
 def my-mounth():
         return print(1)
+
+def return_date*():
+	return print(date)	
